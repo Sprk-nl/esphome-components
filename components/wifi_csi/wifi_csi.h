@@ -14,7 +14,7 @@
 #include "esphome/components/binary_sensor/binary_sensor.h"
 #include "esphome/components/wifi/wifi_component.h"
 #ifdef USE_ESP32
-#include <WiFi.h>
+//#include <WiFi.h>
 #endif
 
 #ifdef USE_ESP8266
